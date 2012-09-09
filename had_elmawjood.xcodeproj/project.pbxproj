@@ -7,6 +7,56 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3302397A15FA974B00281A47 /* HomeShelfCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3342083115FA8E7E00FE9CDE /* HomeShelfCell.m */; };
+		3302397D15FA9C9800281A47 /* globalShelf.png in Resources */ = {isa = PBXBuildFile; fileRef = 3302397C15FA9C9800281A47 /* globalShelf.png */; };
+		3326601915FB254500DCF374 /* ملح.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326601815FB254500DCF374 /* ملح.png */; };
+		3326601C15FB260800DCF374 /* بصل.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326601A15FB260800DCF374 /* بصل.png */; };
+		3326601D15FB260800DCF374 /* ملفوف.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326601B15FB260800DCF374 /* ملفوف.png */; };
+		3326601F15FB270B00DCF374 /* خل.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326601E15FB270B00DCF374 /* خل.png */; };
+		3326602115FB294D00DCF374 /* ingredients.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3326602015FB294D00DCF374 /* ingredients.txt */; };
+		3326602515FB361900DCF374 /* تفاح.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326602415FB361900DCF374 /* تفاح.png */; };
+		3326602715FB362200DCF374 /* إجاص.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326602615FB362200DCF374 /* إجاص.png */; };
+		3326602915FB37C700DCF374 /* عنب.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326602815FB37C700DCF374 /* عنب.png */; };
+		3326602D15FB3DDD00DCF374 /* سكر.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326602C15FB3DDD00DCF374 /* سكر.png */; };
+		3326602F15FB3DE500DCF374 /* كريما.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326602E15FB3DE500DCF374 /* كريما.png */; };
+		3326603115FB415600DCF374 /* جبنة.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326603015FB415600DCF374 /* جبنة.png */; };
+		3326603315FB415D00DCF374 /* فليفلة.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326603215FB415D00DCF374 /* فليفلة.png */; };
+		3326603515FB435F00DCF374 /* فطر.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326603415FB435F00DCF374 /* فطر.png */; };
+		3326603715FB43A100DCF374 /* لحم.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326603615FB43A100DCF374 /* لحم.png */; };
+		3326603B15FB473000DCF374 /* recipes.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3326603A15FB473000DCF374 /* recipes.txt */; };
+		3326603D15FB48AF00DCF374 /* بيض.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326603C15FB48AF00DCF374 /* بيض.png */; };
+		3326603F15FB4A9900DCF374 /* طماطم.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326603E15FB4A9900DCF374 /* طماطم.png */; };
+		3326604115FB4CF100DCF374 /* خيار.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326604015FB4CF100DCF374 /* خيار.png */; };
+		3326604315FB525B00DCF374 /* خس.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326604215FB525B00DCF374 /* خس.png */; };
+		3326604515FB526100DCF374 /* كفتة.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326604415FB526100DCF374 /* كفتة.png */; };
+		3326604715FB532F00DCF374 /* قرنبيط.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326604615FB532F00DCF374 /* قرنبيط.png */; };
+		3326604915FB533E00DCF374 /* شعيرية.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326604815FB533E00DCF374 /* شعيرية.png */; };
+		3326604B15FB53A600DCF374 /* جزر.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326604A15FB53A600DCF374 /* جزر.png */; };
+		3326604D15FB53B700DCF374 /* لوز.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326604C15FB53B700DCF374 /* لوز.png */; };
+		3326604F15FB5C2C00DCF374 /* أرز.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326604E15FB5C2C00DCF374 /* أرز.png */; };
+		3326605115FB5C3400DCF374 /* بقدونس.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326605015FB5C3400DCF374 /* بقدونس.png */; };
+		3326605315FB5C3B00DCF374 /* معكرونة.png in Resources */ = {isa = PBXBuildFile; fileRef = 3326605215FB5C3B00DCF374 /* معكرونة.png */; };
+		3342080415FA66D000FE9CDE /* wall.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342080315FA66D000FE9CDE /* wall.png */; };
+		3342080715FA77A000FE9CDE /* Ingredient.m in Sources */ = {isa = PBXBuildFile; fileRef = 3342080615FA77A000FE9CDE /* Ingredient.m */; };
+		3342080A15FA78C700FE9CDE /* Recipe.m in Sources */ = {isa = PBXBuildFile; fileRef = 3342080915FA78C700FE9CDE /* Recipe.m */; };
+		3342080D15FA796300FE9CDE /* ModelController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3342080C15FA796200FE9CDE /* ModelController.m */; };
+		3342081015FA7CAF00FE9CDE /* blackButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342080E15FA7CAF00FE9CDE /* blackButton.png */; };
+		3342081115FA7CAF00FE9CDE /* greenButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342080F15FA7CAF00FE9CDE /* greenButton.png */; };
+		3342081415FA800C00FE9CDE /* GlobalShelfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3342081315FA800C00FE9CDE /* GlobalShelfViewController.m */; };
+		3342082215FA817800FE9CDE /* كزبرة.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342081715FA817800FE9CDE /* كزبرة.png */; };
+		3342082315FA817800FE9CDE /* جوزة الطيب.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342081815FA817800FE9CDE /* جوزة الطيب.png */; };
+		3342082415FA817800FE9CDE /* قرنفل.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342081915FA817800FE9CDE /* قرنفل.png */; };
+		3342082515FA817800FE9CDE /* ليمون.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342081A15FA817800FE9CDE /* ليمون.png */; };
+		3342082615FA817800FE9CDE /* فلفل أسود.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342081B15FA817800FE9CDE /* فلفل أسود.png */; };
+		3342082715FA817800FE9CDE /* كتشاب.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342081C15FA817800FE9CDE /* كتشاب.png */; };
+		3342082815FA817800FE9CDE /* مايونيز.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342081D15FA817800FE9CDE /* مايونيز.png */; };
+		3342082915FA817800FE9CDE /* خردل.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342081E15FA817800FE9CDE /* خردل.png */; };
+		3342082A15FA817800FE9CDE /* كرز.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342081F15FA817800FE9CDE /* كرز.png */; };
+		3342082B15FA817800FE9CDE /* دجاج.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342082015FA817800FE9CDE /* دجاج.png */; };
+		3342082D15FA81ED00FE9CDE /* globalShelfold.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342082C15FA81ED00FE9CDE /* globalShelfold.png */; };
+		3342082F15FA85C200FE9CDE /* shelfBack.png in Resources */ = {isa = PBXBuildFile; fileRef = 3342082E15FA85C200FE9CDE /* shelfBack.png */; };
+		3358D13E15FB7DA800BBAC33 /* details.png in Resources */ = {isa = PBXBuildFile; fileRef = 3358D13D15FB7DA800BBAC33 /* details.png */; };
+		3358D14015FB82B600BBAC33 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 3358D13F15FB82B600BBAC33 /* button.png */; };
 		3366346D15FA188900FB066F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3366346C15FA188900FB066F /* UIKit.framework */; };
 		3366346F15FA188900FB066F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3366346E15FA188900FB066F /* Foundation.framework */; };
 		3366347115FA188900FB066F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3366347015FA188900FB066F /* CoreGraphics.framework */; };
@@ -16,9 +66,72 @@
 		3366348015FA188900FB066F /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3366347E15FA188900FB066F /* MainStoryboard.storyboard */; };
 		3366348315FA188900FB066F /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3366348215FA188900FB066F /* MasterViewController.m */; };
 		3366348615FA188900FB066F /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3366348515FA188900FB066F /* DetailViewController.m */; };
+		3366349115FA235300FB066F /* HomeShelfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3366349015FA235300FB066F /* HomeShelfViewController.m */; };
+		3366349815FA2A6B00FB066F /* shelf.png in Resources */ = {isa = PBXBuildFile; fileRef = 3366349715FA2A6B00FB066F /* shelf.png */; };
+		3366349C15FA2C5D00FB066F /* ShelfCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3366349B15FA2C5D00FB066F /* ShelfCell.m */; };
+		336634A015FA450000FB066F /* raf.png in Resources */ = {isa = PBXBuildFile; fileRef = 3366349F15FA450000FB066F /* raf.png */; };
+		336634A415FA48C200FB066F /* whiteButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 336634A315FA48C100FB066F /* whiteButton.png */; };
+		336CD15D15FB6DC2009D1333 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 336CD15C15FB6DC2009D1333 /* logo.png */; };
+		33AD0DFC15FAB0BF007F0C44 /* no.png in Resources */ = {isa = PBXBuildFile; fileRef = 33AD0DFB15FAB0BF007F0C44 /* no.png */; };
+		33AD0E0115FABD4E007F0C44 /* Check-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 33AD0E0015FABD4E007F0C44 /* Check-icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3302397C15FA9C9800281A47 /* globalShelf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = globalShelf.png; sourceTree = "<group>"; };
+		3326601815FB254500DCF374 /* ملح.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ملح.png"; sourceTree = "<group>"; };
+		3326601A15FB260800DCF374 /* بصل.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "بصل.png"; sourceTree = "<group>"; };
+		3326601B15FB260800DCF374 /* ملفوف.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ملفوف.png"; sourceTree = "<group>"; };
+		3326601E15FB270B00DCF374 /* خل.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "خل.png"; sourceTree = "<group>"; };
+		3326602015FB294D00DCF374 /* ingredients.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ingredients.txt; sourceTree = "<group>"; };
+		3326602415FB361900DCF374 /* تفاح.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "تفاح.png"; sourceTree = "<group>"; };
+		3326602615FB362200DCF374 /* إجاص.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "إجاص.png"; sourceTree = "<group>"; };
+		3326602815FB37C700DCF374 /* عنب.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "عنب.png"; sourceTree = "<group>"; };
+		3326602C15FB3DDD00DCF374 /* سكر.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "سكر.png"; sourceTree = "<group>"; };
+		3326602E15FB3DE500DCF374 /* كريما.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "كريما.png"; sourceTree = "<group>"; };
+		3326603015FB415600DCF374 /* جبنة.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "جبنة.png"; sourceTree = "<group>"; };
+		3326603215FB415D00DCF374 /* فليفلة.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "فليفلة.png"; sourceTree = "<group>"; };
+		3326603415FB435F00DCF374 /* فطر.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "فطر.png"; sourceTree = "<group>"; };
+		3326603615FB43A100DCF374 /* لحم.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "لحم.png"; sourceTree = "<group>"; };
+		3326603A15FB473000DCF374 /* recipes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = recipes.txt; sourceTree = "<group>"; };
+		3326603C15FB48AF00DCF374 /* بيض.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "بيض.png"; sourceTree = "<group>"; };
+		3326603E15FB4A9900DCF374 /* طماطم.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "طماطم.png"; sourceTree = "<group>"; };
+		3326604015FB4CF100DCF374 /* خيار.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "خيار.png"; sourceTree = "<group>"; };
+		3326604215FB525B00DCF374 /* خس.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "خس.png"; sourceTree = "<group>"; };
+		3326604415FB526100DCF374 /* كفتة.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "كفتة.png"; sourceTree = "<group>"; };
+		3326604615FB532F00DCF374 /* قرنبيط.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "قرنبيط.png"; sourceTree = "<group>"; };
+		3326604815FB533E00DCF374 /* شعيرية.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "شعيرية.png"; sourceTree = "<group>"; };
+		3326604A15FB53A600DCF374 /* جزر.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "جزر.png"; sourceTree = "<group>"; };
+		3326604C15FB53B700DCF374 /* لوز.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "لوز.png"; sourceTree = "<group>"; };
+		3326604E15FB5C2C00DCF374 /* أرز.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "أرز.png"; sourceTree = "<group>"; };
+		3326605015FB5C3400DCF374 /* بقدونس.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "بقدونس.png"; sourceTree = "<group>"; };
+		3326605215FB5C3B00DCF374 /* معكرونة.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "معكرونة.png"; sourceTree = "<group>"; };
+		3342080315FA66D000FE9CDE /* wall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wall.png; sourceTree = "<group>"; };
+		3342080515FA77A000FE9CDE /* Ingredient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ingredient.h; sourceTree = "<group>"; };
+		3342080615FA77A000FE9CDE /* Ingredient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ingredient.m; sourceTree = "<group>"; };
+		3342080815FA78C700FE9CDE /* Recipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Recipe.h; sourceTree = "<group>"; };
+		3342080915FA78C700FE9CDE /* Recipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Recipe.m; sourceTree = "<group>"; };
+		3342080B15FA796200FE9CDE /* ModelController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModelController.h; sourceTree = "<group>"; };
+		3342080C15FA796200FE9CDE /* ModelController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModelController.m; sourceTree = "<group>"; };
+		3342080E15FA7CAF00FE9CDE /* blackButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackButton.png; sourceTree = "<group>"; };
+		3342080F15FA7CAF00FE9CDE /* greenButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenButton.png; sourceTree = "<group>"; };
+		3342081215FA800C00FE9CDE /* GlobalShelfViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GlobalShelfViewController.h; sourceTree = "<group>"; };
+		3342081315FA800C00FE9CDE /* GlobalShelfViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GlobalShelfViewController.m; sourceTree = "<group>"; };
+		3342081715FA817800FE9CDE /* كزبرة.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "كزبرة.png"; sourceTree = "<group>"; };
+		3342081815FA817800FE9CDE /* جوزة الطيب.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "جوزة الطيب.png"; sourceTree = "<group>"; };
+		3342081915FA817800FE9CDE /* قرنفل.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "قرنفل.png"; sourceTree = "<group>"; };
+		3342081A15FA817800FE9CDE /* ليمون.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ليمون.png"; sourceTree = "<group>"; };
+		3342081B15FA817800FE9CDE /* فلفل أسود.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "فلفل أسود.png"; sourceTree = "<group>"; };
+		3342081C15FA817800FE9CDE /* كتشاب.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "كتشاب.png"; sourceTree = "<group>"; };
+		3342081D15FA817800FE9CDE /* مايونيز.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "مايونيز.png"; sourceTree = "<group>"; };
+		3342081E15FA817800FE9CDE /* خردل.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "خردل.png"; sourceTree = "<group>"; };
+		3342081F15FA817800FE9CDE /* كرز.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "كرز.png"; sourceTree = "<group>"; };
+		3342082015FA817800FE9CDE /* دجاج.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "دجاج.png"; sourceTree = "<group>"; };
+		3342082C15FA81ED00FE9CDE /* globalShelfold.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = globalShelfold.png; sourceTree = "<group>"; };
+		3342082E15FA85C200FE9CDE /* shelfBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shelfBack.png; sourceTree = "<group>"; };
+		3342083015FA8E7E00FE9CDE /* HomeShelfCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeShelfCell.h; sourceTree = "<group>"; };
+		3342083115FA8E7E00FE9CDE /* HomeShelfCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeShelfCell.m; sourceTree = "<group>"; };
+		3358D13D15FB7DA800BBAC33 /* details.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = details.png; sourceTree = "<group>"; };
+		3358D13F15FB82B600BBAC33 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
 		3366346815FA188900FB066F /* had_elmawjood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = had_elmawjood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3366346C15FA188900FB066F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3366346E15FA188900FB066F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -34,6 +147,16 @@
 		3366348215FA188900FB066F /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		3366348415FA188900FB066F /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		3366348515FA188900FB066F /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		3366348F15FA235300FB066F /* HomeShelfViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeShelfViewController.h; sourceTree = "<group>"; };
+		3366349015FA235300FB066F /* HomeShelfViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeShelfViewController.m; sourceTree = "<group>"; };
+		3366349715FA2A6B00FB066F /* shelf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shelf.png; sourceTree = "<group>"; };
+		3366349A15FA2C5D00FB066F /* ShelfCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShelfCell.h; sourceTree = "<group>"; };
+		3366349B15FA2C5D00FB066F /* ShelfCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShelfCell.m; sourceTree = "<group>"; };
+		3366349F15FA450000FB066F /* raf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = raf.png; sourceTree = "<group>"; };
+		336634A315FA48C100FB066F /* whiteButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whiteButton.png; sourceTree = "<group>"; };
+		336CD15C15FB6DC2009D1333 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		33AD0DFB15FAB0BF007F0C44 /* no.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = no.png; sourceTree = "<group>"; };
+		33AD0E0015FABD4E007F0C44 /* Check-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Check-icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,9 +173,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3302398015FAA11800281A47 /* database */ = {
+			isa = PBXGroup;
+			children = (
+				3326603A15FB473000DCF374 /* recipes.txt */,
+				3326602015FB294D00DCF374 /* ingredients.txt */,
+			);
+			name = database;
+			sourceTree = "<group>";
+		};
+		3342081515FA80A100FE9CDE /* ingrediants */ = {
+			isa = PBXGroup;
+			children = (
+				3326605215FB5C3B00DCF374 /* معكرونة.png */,
+				3326605015FB5C3400DCF374 /* بقدونس.png */,
+				3326604E15FB5C2C00DCF374 /* أرز.png */,
+				3326604C15FB53B700DCF374 /* لوز.png */,
+				3326604A15FB53A600DCF374 /* جزر.png */,
+				3326604815FB533E00DCF374 /* شعيرية.png */,
+				3326604615FB532F00DCF374 /* قرنبيط.png */,
+				3326604415FB526100DCF374 /* كفتة.png */,
+				3326604215FB525B00DCF374 /* خس.png */,
+				3326604015FB4CF100DCF374 /* خيار.png */,
+				3326603C15FB48AF00DCF374 /* بيض.png */,
+				3326603E15FB4A9900DCF374 /* طماطم.png */,
+				3326603615FB43A100DCF374 /* لحم.png */,
+				3326603415FB435F00DCF374 /* فطر.png */,
+				3326603215FB415D00DCF374 /* فليفلة.png */,
+				3326603015FB415600DCF374 /* جبنة.png */,
+				3326602E15FB3DE500DCF374 /* كريما.png */,
+				3326602C15FB3DDD00DCF374 /* سكر.png */,
+				3326602815FB37C700DCF374 /* عنب.png */,
+				3326602615FB362200DCF374 /* إجاص.png */,
+				3326602415FB361900DCF374 /* تفاح.png */,
+				3326601E15FB270B00DCF374 /* خل.png */,
+				3326601A15FB260800DCF374 /* بصل.png */,
+				3326601B15FB260800DCF374 /* ملفوف.png */,
+				3326601815FB254500DCF374 /* ملح.png */,
+				3342081715FA817800FE9CDE /* كزبرة.png */,
+				3342081815FA817800FE9CDE /* جوزة الطيب.png */,
+				3342081915FA817800FE9CDE /* قرنفل.png */,
+				3342081A15FA817800FE9CDE /* ليمون.png */,
+				3342081B15FA817800FE9CDE /* فلفل أسود.png */,
+				3342081C15FA817800FE9CDE /* كتشاب.png */,
+				3342081D15FA817800FE9CDE /* مايونيز.png */,
+				3342081E15FA817800FE9CDE /* خردل.png */,
+				3342081F15FA817800FE9CDE /* كرز.png */,
+				3342082015FA817800FE9CDE /* دجاج.png */,
+			);
+			name = ingrediants;
+			sourceTree = "<group>";
+		};
 		3366345D15FA188900FB066F = {
 			isa = PBXGroup;
 			children = (
+				336CD15C15FB6DC2009D1333 /* logo.png */,
 				3366347215FA188900FB066F /* had_elmawjood */,
 				3366346B15FA188900FB066F /* Frameworks */,
 				3366346915FA188900FB066F /* Products */,
@@ -87,6 +262,22 @@
 				3366348215FA188900FB066F /* MasterViewController.m */,
 				3366348415FA188900FB066F /* DetailViewController.h */,
 				3366348515FA188900FB066F /* DetailViewController.m */,
+				3366348F15FA235300FB066F /* HomeShelfViewController.h */,
+				3366349015FA235300FB066F /* HomeShelfViewController.m */,
+				3342081215FA800C00FE9CDE /* GlobalShelfViewController.h */,
+				3342081315FA800C00FE9CDE /* GlobalShelfViewController.m */,
+				3366349A15FA2C5D00FB066F /* ShelfCell.h */,
+				3366349B15FA2C5D00FB066F /* ShelfCell.m */,
+				3342083015FA8E7E00FE9CDE /* HomeShelfCell.h */,
+				3342083115FA8E7E00FE9CDE /* HomeShelfCell.m */,
+				3342080515FA77A000FE9CDE /* Ingredient.h */,
+				3342080615FA77A000FE9CDE /* Ingredient.m */,
+				3342080815FA78C700FE9CDE /* Recipe.h */,
+				3342080915FA78C700FE9CDE /* Recipe.m */,
+				3342080B15FA796200FE9CDE /* ModelController.h */,
+				3342080C15FA796200FE9CDE /* ModelController.m */,
+				3302398015FAA11800281A47 /* database */,
+				3366349915FA2A6F00FB066F /* graphics */,
 				3366347315FA188900FB066F /* Supporting Files */,
 			);
 			path = had_elmawjood;
@@ -101,6 +292,27 @@
 				3366347A15FA188900FB066F /* had_elmawjood-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3366349915FA2A6F00FB066F /* graphics */ = {
+			isa = PBXGroup;
+			children = (
+				3358D13F15FB82B600BBAC33 /* button.png */,
+				3342080315FA66D000FE9CDE /* wall.png */,
+				3358D13D15FB7DA800BBAC33 /* details.png */,
+				33AD0DFB15FAB0BF007F0C44 /* no.png */,
+				33AD0E0015FABD4E007F0C44 /* Check-icon.png */,
+				3342080E15FA7CAF00FE9CDE /* blackButton.png */,
+				3342080F15FA7CAF00FE9CDE /* greenButton.png */,
+				336634A315FA48C100FB066F /* whiteButton.png */,
+				3342081515FA80A100FE9CDE /* ingrediants */,
+				3366349715FA2A6B00FB066F /* shelf.png */,
+				3342082E15FA85C200FE9CDE /* shelfBack.png */,
+				3302397C15FA9C9800281A47 /* globalShelf.png */,
+				3342082C15FA81ED00FE9CDE /* globalShelfold.png */,
+				3366349F15FA450000FB066F /* raf.png */,
+			);
+			name = graphics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -156,6 +368,57 @@
 			files = (
 				3366347715FA188900FB066F /* InfoPlist.strings in Resources */,
 				3366348015FA188900FB066F /* MainStoryboard.storyboard in Resources */,
+				3366349815FA2A6B00FB066F /* shelf.png in Resources */,
+				336634A015FA450000FB066F /* raf.png in Resources */,
+				336634A415FA48C200FB066F /* whiteButton.png in Resources */,
+				3342080415FA66D000FE9CDE /* wall.png in Resources */,
+				3342081015FA7CAF00FE9CDE /* blackButton.png in Resources */,
+				3342081115FA7CAF00FE9CDE /* greenButton.png in Resources */,
+				3342082215FA817800FE9CDE /* كزبرة.png in Resources */,
+				3342082315FA817800FE9CDE /* جوزة الطيب.png in Resources */,
+				3342082415FA817800FE9CDE /* قرنفل.png in Resources */,
+				3342082515FA817800FE9CDE /* ليمون.png in Resources */,
+				3342082615FA817800FE9CDE /* فلفل أسود.png in Resources */,
+				3342082715FA817800FE9CDE /* كتشاب.png in Resources */,
+				3342082815FA817800FE9CDE /* مايونيز.png in Resources */,
+				3342082915FA817800FE9CDE /* خردل.png in Resources */,
+				3342082A15FA817800FE9CDE /* كرز.png in Resources */,
+				3342082B15FA817800FE9CDE /* دجاج.png in Resources */,
+				3342082D15FA81ED00FE9CDE /* globalShelfold.png in Resources */,
+				3342082F15FA85C200FE9CDE /* shelfBack.png in Resources */,
+				3302397D15FA9C9800281A47 /* globalShelf.png in Resources */,
+				33AD0DFC15FAB0BF007F0C44 /* no.png in Resources */,
+				33AD0E0115FABD4E007F0C44 /* Check-icon.png in Resources */,
+				3326601915FB254500DCF374 /* ملح.png in Resources */,
+				3326601C15FB260800DCF374 /* بصل.png in Resources */,
+				3326601D15FB260800DCF374 /* ملفوف.png in Resources */,
+				3326601F15FB270B00DCF374 /* خل.png in Resources */,
+				3326602115FB294D00DCF374 /* ingredients.txt in Resources */,
+				3326602515FB361900DCF374 /* تفاح.png in Resources */,
+				3326602715FB362200DCF374 /* إجاص.png in Resources */,
+				3326602915FB37C700DCF374 /* عنب.png in Resources */,
+				3326602D15FB3DDD00DCF374 /* سكر.png in Resources */,
+				3326602F15FB3DE500DCF374 /* كريما.png in Resources */,
+				3326603115FB415600DCF374 /* جبنة.png in Resources */,
+				3326603315FB415D00DCF374 /* فليفلة.png in Resources */,
+				3326603515FB435F00DCF374 /* فطر.png in Resources */,
+				3326603715FB43A100DCF374 /* لحم.png in Resources */,
+				3326603B15FB473000DCF374 /* recipes.txt in Resources */,
+				3326603D15FB48AF00DCF374 /* بيض.png in Resources */,
+				3326603F15FB4A9900DCF374 /* طماطم.png in Resources */,
+				3326604115FB4CF100DCF374 /* خيار.png in Resources */,
+				3326604315FB525B00DCF374 /* خس.png in Resources */,
+				3326604515FB526100DCF374 /* كفتة.png in Resources */,
+				3326604715FB532F00DCF374 /* قرنبيط.png in Resources */,
+				3326604915FB533E00DCF374 /* شعيرية.png in Resources */,
+				3326604B15FB53A600DCF374 /* جزر.png in Resources */,
+				3326604D15FB53B700DCF374 /* لوز.png in Resources */,
+				3326604F15FB5C2C00DCF374 /* أرز.png in Resources */,
+				3326605115FB5C3400DCF374 /* بقدونس.png in Resources */,
+				3326605315FB5C3B00DCF374 /* معكرونة.png in Resources */,
+				336CD15D15FB6DC2009D1333 /* logo.png in Resources */,
+				3358D13E15FB7DA800BBAC33 /* details.png in Resources */,
+				3358D14015FB82B600BBAC33 /* button.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,6 +433,13 @@
 				3366347D15FA188900FB066F /* AppDelegate.m in Sources */,
 				3366348315FA188900FB066F /* MasterViewController.m in Sources */,
 				3366348615FA188900FB066F /* DetailViewController.m in Sources */,
+				3366349115FA235300FB066F /* HomeShelfViewController.m in Sources */,
+				3366349C15FA2C5D00FB066F /* ShelfCell.m in Sources */,
+				3302397A15FA974B00281A47 /* HomeShelfCell.m in Sources */,
+				3342080715FA77A000FE9CDE /* Ingredient.m in Sources */,
+				3342080A15FA78C700FE9CDE /* Recipe.m in Sources */,
+				3342080D15FA796300FE9CDE /* ModelController.m in Sources */,
+				3342081415FA800C00FE9CDE /* GlobalShelfViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +555,7 @@
 				3366348B15FA188900FB066F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

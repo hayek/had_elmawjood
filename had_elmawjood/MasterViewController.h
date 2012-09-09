@@ -7,7 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ModelController.h"
+
 
 @interface MasterViewController : UITableViewController
+
+@property (strong, nonatomic) NSArray* recepies;
+@property (strong, nonatomic) ModelController* modelController;
+
+- (IBAction)cancelClicked:(id)sender;
 
 @end
